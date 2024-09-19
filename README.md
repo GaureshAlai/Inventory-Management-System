@@ -32,7 +32,7 @@ The Inventory Management System is designed to facilitate efficient inventory co
 - **User-Friendly GUI**: An easy-to-navigate interface designed with Tkinter.
 
 ## **Screenshots**
-![Inventory Management System](https://drive.google.com/uc?export=view&id=1ddSLiywHkmjtimknMutSLufUB6rKt0VF)
+![My Image](https://github.com/GaureshAlai/Inventory-Management-System/raw/main/Screenshot 2024-09-19 190140.png)
 
 
 
