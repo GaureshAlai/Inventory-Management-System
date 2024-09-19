@@ -101,16 +101,6 @@ We plan to introduce additional features in future updates:
 - **Email Notifications**: Alerts for low stock and other updates.
 - **Cloud Integration**: Remote access and multi-device support.
 
-## **Contributing**
-
-We welcome contributions to improve this project. To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
-
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on contributing guidelines.
 
 ## **License**
 
