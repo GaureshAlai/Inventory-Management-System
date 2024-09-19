@@ -6,6 +6,7 @@ Welcome to the **Inventory Management System** repository! This project is a com
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
 - [Usage Guide](#usage-guide)
@@ -29,6 +30,9 @@ The Inventory Management System is designed to facilitate efficient inventory co
 - **Low-Stock Notifications**: Alerts for products with stock levels falling below critical thresholds.
 - **Data Backup and Restore**: Backup and restore the database to protect against data loss.
 - **User-Friendly GUI**: An easy-to-navigate interface designed with Tkinter.
+
+## **Screenshots**
+[![Inventory Management System ](Link)]([https://drive.google.com/file/d/1l-v7qEI51JNRo7ckTZLguMsfe5bTeKbd/view?usp=drive_link](https://drive.google.com/file/d/1ddSLiywHkmjtimknMutSLufUB6rKt0VF/view?usp=drive_link))
 
 ## **Technologies Used**
 
